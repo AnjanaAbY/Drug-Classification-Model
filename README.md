@@ -3,17 +3,17 @@ This repository contains a Python implementation of a drug classification model 
 
 **Features:**
 
-Data loading and exploration
+1. Data loading and exploration
 
-Preprocessing, including label encoding for categorical variables
+2. Preprocessing, including label encoding for categorical variables
 
-Train-test split of the dataset
+3. Train-test split of the dataset
 
-Model training using various classifiers
+4. Model training using various classifiers
 
-Evaluation of model performance with accuracy and additional metrics (precision, recall, F1-score)
+5. Evaluation of model performance with accuracy and additional metrics (precision, recall, F1-score)
 
-Prediction for new patients based on the trained models
+6. Prediction for new patients based on the trained models
 
 **Libraries used:**
 
@@ -21,17 +21,7 @@ NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn
 
 **Models Trained:**
 
-Logistic Regression
-
-Decision Tree
-
-Random Forest
-
-KNN (K-Nearest Neighbors)
-
-SVM (Support Vector Machine)
-
-Naive Bayes
+Logistic Regression, Decision Tree, Random Forest, KNN (K-Nearest Neighbors), SVM (Support Vector Machine), Naive Bayes
 
 **Recommendation:**
 
