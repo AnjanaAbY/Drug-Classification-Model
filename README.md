@@ -12,11 +12,7 @@ Prediction for new patients based on the trained models
 
 **Libraries used:**
 
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
+NumPy,Pandas,Matplotlib,Seaborn,Scikit-learn
 
 **Models Trained:**
 
